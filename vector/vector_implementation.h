@@ -1,0 +1,16 @@
+#pragma once
+
+#include "vector_assignment.h"
+#include "vector_bracket.h"
+#include "vector_constructor_by_copying.h"
+#include "vector_deduplicate.h"
+#include "vector_expand.h"
+#include "vector_find.h"
+#include "Vector_insert.h"
+#include "vector_remove.h"
+#include "vector_removeInterval.h"
+#include "Vector_search.h"
+#include "vector_shrink.h"
+#include "Vector_uniquify_slow.h"
+#include "Vector_uniquify.h"
+#include "Vector_search_binary_A.h"
