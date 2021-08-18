@@ -14,3 +14,6 @@
 #include "Vector_uniquify_slow.h"
 #include "Vector_uniquify.h"
 #include "Vector_search_binary_A.h"
+//#include "Vector_search_binary_B.h"
+//#include "Vector_search_binary_C.h"
+#include "Vector_search_fibonaccian.h"
