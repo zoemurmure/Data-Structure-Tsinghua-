@@ -12,4 +12,6 @@ void Vector<T>::merge(Rank lo, Rank mi, Rank hi) {
         if ((k >= lc) || (B[j] <= C[k])) A[i++] = B[j++];
         else A[i++] = C[k++];
     }
+
+    delete [] B;
 }
