@@ -1,3 +1,17 @@
 #pragma once 
 
 #include "ListNode.h"
+#include "list_bracket.h"
+#include "list_clear.h"
+#include "list_constructor_by_copying.h"
+#include "list_copyNodes.h"
+#include "list_deduplicate.h"
+#include "list_destructor.h"
+#include "list_find.h"
+#include "list_initialize.h"
+#include "List_insert.h"
+#include "list_remove.h"
+#include "list_search.h"
+#include "List_selectionSort.h"
+#include "List_selectMax.h"
+#include "List_uniquify.h"
