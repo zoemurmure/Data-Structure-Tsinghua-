@@ -15,3 +15,4 @@
 #include "List_selectionSort.h"
 #include "List_selectMax.h"
 #include "List_uniquify.h"
+#include "List_insertionSort.h"
